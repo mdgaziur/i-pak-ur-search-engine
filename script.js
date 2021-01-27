@@ -1,0 +1,1 @@
+// i hate js because it's not strongly typed. but pak i can't use ts bcz is paking complicated for brainless people :3
